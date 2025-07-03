@@ -1,16 +1,23 @@
-# flutter_login_app
+# Construct App
 
-A new Flutter project.
+**Construct App** is a Flutter-based mobile application that uses a **PHP backend** to handle the server-side operations. The backend provides an API that communicates with the mobile application for data management.
 
-## Getting Started
+## Table of Contents
 
-This project is a starting point for a Flutter application.
+- [Installation](#installation)
+- [Backend](#backend)
+- [API](#api)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+To get started with the **Construct App**, you need to clone this repository and set up the necessary dependencies.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Flutter (Mobile App)
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Omar-Gooni/construct_app.git
+
